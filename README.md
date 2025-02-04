@@ -2,6 +2,11 @@
 
 A powerful local RAG (Retrieval Augmented Generation) application that lets you chat with your PDF documents using Ollama and LangChain. This project includes both a Jupyter notebook for experimentation and a Streamlit web interface for easy interaction.
 
+## Project Architecture
+
+![image](https://github.com/user-attachments/assets/c2cda5df-51e2-40ef-8d01-e2ac3699539c)
+
+
 ## Project Structure
 ```
 ollama_pdf_rag/
